@@ -1,5 +1,5 @@
 This app serves as a sample portfolio application for Wirawan.
-**Create using ReactNative**
+Built using React Native.
 
 **"Let Him Cook"** 
 is a mobile application designed as a digital platform for managing and sharing cooking recipes. The app combines personal recipe storage with a culinary community, allowing users to save their favorite recipes and discover inspiration for new dishes.
